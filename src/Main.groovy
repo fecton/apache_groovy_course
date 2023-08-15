@@ -8,6 +8,10 @@ class Application {
     private final String NAME = "THE_REAL_DAN_VEGA"
 }
 
+println true
+println false
+println null
+
 
 /*
 static void main(String[] args) {
